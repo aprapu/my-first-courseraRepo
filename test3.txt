@@ -1,1 +1,2 @@
-this is the first time i use vim cheatsheet
+i delete all the text inside this file, and make some new changes
+
